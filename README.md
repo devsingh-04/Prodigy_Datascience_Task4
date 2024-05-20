@@ -76,4 +76,6 @@ We welcome contributions! Please read our contributing guidelines to get started
 Contact
 For any questions or suggestions, feel free to open an issue or reach out 
 Email :- dsingh240204@gmail.com
-Linked in :- www.linkedin.com/in/devpratap-singh-0b00011b3
+
+Linked in :-
+www.linkedin.com/in/devpratap-singh-0b00011b3
